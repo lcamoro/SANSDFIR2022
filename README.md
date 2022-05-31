@@ -1,7 +1,7 @@
 # SANSDFIR2022
 Using Threat Intelligence within Google Colaboratory Notebooks
 
-Using Threat Intelligence is essential part of most analysis and investigations. You see a suspicious IP address in your logs and you want to check its reputation:
+Threat Intelligence is essential part of most analysis and investigations. You see a suspicious IP address in your logs and you want to check its reputation:
 
 - Is it a known C2 (Command and Control) address? 
 - Is it associated with malware? 
